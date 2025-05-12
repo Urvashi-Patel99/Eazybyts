@@ -21,7 +21,7 @@ const Footer = () => {
             <h4>Get In Touch</h4>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore, adipisci.</p>
             <p>info@urvashipatel.com</p>
-            <p>+918319453477</p>
+            <p>+91888793385</p>
           </div>
           <div className="third mt-5">
             <h4>About</h4>
